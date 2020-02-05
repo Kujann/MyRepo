@@ -2,6 +2,7 @@ This is the new branch BrBar
 This is the BrFoo branch
 This is a test file. 
 First the first issue
+FIx and close use 'fixes #3' in comment
 One
 Two
 Three
